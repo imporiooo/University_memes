@@ -1,7 +1,7 @@
 # University_memes
 
 Я больше не буду прикреплять скриншоты
-![hippo](https://tenor.com/ru/view/yes-sam-metal-gear-rising-gif-24774136)
+![](https://github.com/imporiooo/University_memes/yes-sam.gif)
 
 ## Chapter 1
 - [Реализация мигания светодиодом с помощью микроконтроллера ATmega328.] (https://wokwi.com/projects/409190539960312833)
