@@ -1,7 +1,7 @@
 # University_memes
 
 Я больше не буду прикреплять скриншоты
-![](https://github.com/imporiooo/University_memes/yes-sam.gif)
+![](https://i.pinimg.com/originals/eb/ec/d4/ebecd4010e549f33371d741d46b9b607.gif)
 
 ## Chapter 1
 - [Реализация мигания светодиодом с помощью микроконтроллера ATmega328.] (https://wokwi.com/projects/409190539960312833)
