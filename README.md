@@ -1,6 +1,7 @@
 # University_memes
 
 Я больше не буду прикреплять скриншоты
+
 ![](https://i.pinimg.com/originals/1d/98/57/1d985742e94aa0143eeea982680d6920.gif)
 
 ## Chapter 1
